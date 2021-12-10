@@ -10,13 +10,6 @@
 		4609B3C4275A6446004A51F4 /* ALLViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4609B3C3275A6445004A51F4 /* ALLViewController.swift */; };
 		461E54D9275A82F900E7693D /* StreemingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461E54D8275A82F900E7693D /* StreemingViewController.swift */; };
 		461E54DB275AA48E00E7693D /* SoundPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461E54DA275AA48E00E7693D /* SoundPlayerViewController.swift */; };
-		461E54E3275AA6BC00E7693D /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 461E54DC275AA6BB00E7693D /* next.png */; };
-		461E54E4275AA6BC00E7693D /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 461E54DD275AA6BB00E7693D /* pause.png */; };
-		461E54E5275AA6BC00E7693D /* BG.png in Resources */ = {isa = PBXBuildFile; fileRef = 461E54DE275AA6BB00E7693D /* BG.png */; };
-		461E54E6275AA6BC00E7693D /* prev.png in Resources */ = {isa = PBXBuildFile; fileRef = 461E54DF275AA6BC00E7693D /* prev.png */; };
-		461E54E7275AA6BC00E7693D /* sora.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 461E54E0275AA6BC00E7693D /* sora.jpeg */; };
-		461E54E8275AA6BC00E7693D /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 461E54E1275AA6BC00E7693D /* back.png */; };
-		461E54E9275AA6BC00E7693D /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 461E54E2275AA6BC00E7693D /* play.png */; };
 		4633762A2758CC60009EC92B /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 463376292758CC60009EC92B /* Alamofire */; };
 		46AE4E4C27580D46003799C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46AE4E4B27580D46003799C4 /* AppDelegate.swift */; };
 		46AE4E4E27580D46003799C4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46AE4E4D27580D46003799C4 /* SceneDelegate.swift */; };
@@ -32,13 +25,6 @@
 		4609B3C3275A6445004A51F4 /* ALLViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ALLViewController.swift; sourceTree = "<group>"; };
 		461E54D8275A82F900E7693D /* StreemingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreemingViewController.swift; sourceTree = "<group>"; };
 		461E54DA275AA48E00E7693D /* SoundPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayerViewController.swift; sourceTree = "<group>"; };
-		461E54DC275AA6BB00E7693D /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = next.png; path = "../../../Downloads/QuraanPlayer-master/QuraanPlayer/next.png"; sourceTree = "<group>"; };
-		461E54DD275AA6BB00E7693D /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pause.png; path = "../../../Downloads/QuraanPlayer-master/QuraanPlayer/pause.png"; sourceTree = "<group>"; };
-		461E54DE275AA6BB00E7693D /* BG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG.png; path = "../../../Downloads/QuraanPlayer-master/QuraanPlayer/BG.png"; sourceTree = "<group>"; };
-		461E54DF275AA6BC00E7693D /* prev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = prev.png; path = "../../../Downloads/QuraanPlayer-master/QuraanPlayer/prev.png"; sourceTree = "<group>"; };
-		461E54E0275AA6BC00E7693D /* sora.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sora.jpeg; path = "../../../Downloads/QuraanPlayer-master/QuraanPlayer/sora.jpeg"; sourceTree = "<group>"; };
-		461E54E1275AA6BC00E7693D /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back.png; path = "../../../Downloads/QuraanPlayer-master/QuraanPlayer/back.png"; sourceTree = "<group>"; };
-		461E54E2275AA6BC00E7693D /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = play.png; path = "../../../Downloads/QuraanPlayer-master/QuraanPlayer/play.png"; sourceTree = "<group>"; };
 		46AE4E4827580D46003799C4 /* TuwaiqQuran.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TuwaiqQuran.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46AE4E4B27580D46003799C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46AE4E4D27580D46003799C4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -93,13 +79,6 @@
 				46AE4E5727580D4C003799C4 /* Assets.xcassets */,
 				46AE4E5927580D4C003799C4 /* LaunchScreen.storyboard */,
 				46AE4E5C27580D4C003799C4 /* Info.plist */,
-				461E54E1275AA6BC00E7693D /* back.png */,
-				461E54DE275AA6BB00E7693D /* BG.png */,
-				461E54DC275AA6BB00E7693D /* next.png */,
-				461E54DD275AA6BB00E7693D /* pause.png */,
-				461E54E2275AA6BC00E7693D /* play.png */,
-				461E54DF275AA6BC00E7693D /* prev.png */,
-				461E54E0275AA6BC00E7693D /* sora.jpeg */,
 				46AE4E5427580D46003799C4 /* TuwaiqQuran.xcdatamodeld */,
 			);
 			path = TuwaiqQuran;
@@ -170,14 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				46AE4E5B27580D4C003799C4 /* LaunchScreen.storyboard in Resources */,
-				461E54E9275AA6BC00E7693D /* play.png in Resources */,
 				46AE4E5827580D4C003799C4 /* Assets.xcassets in Resources */,
-				461E54E8275AA6BC00E7693D /* back.png in Resources */,
-				461E54E7275AA6BC00E7693D /* sora.jpeg in Resources */,
-				461E54E5275AA6BC00E7693D /* BG.png in Resources */,
-				461E54E6275AA6BC00E7693D /* prev.png in Resources */,
-				461E54E4275AA6BC00E7693D /* pause.png in Resources */,
-				461E54E3275AA6BC00E7693D /* next.png in Resources */,
 				46AE4E5327580D46003799C4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
