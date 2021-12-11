@@ -45,10 +45,10 @@ class PlayerVC: UIViewController {
         
         sliders.value = Float(SoundPlayer.player.currentTime)
     }
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         playOneAyah(linkURL: radio_Play)
+//        let soraName.text = Radio.name.self
         //SoundPlayer.play(number: theNumber + 1)
         //soraName.text =  soraAraay[theNumber]
         //soraName.textColor = UIColor.white
