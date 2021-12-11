@@ -32,9 +32,9 @@ class PlayerVC: UIViewController {
     }
     
     func nextNprev(){
-        
+//        soraName.text = radios[Radio].name
         SoundPlayer.play(number: theNumber + 1 )
-        soraName.text = soraAraay[theNumber]
+//        soraName.text = radios[Radio].name
         //               playLable.setTitle("ايقاف", for: .normal)
         playnow.setImage(UIImage(named: "pause.png"), for: .normal)
         sliders.maximumValue = Float(SoundPlayer.player.duration)
@@ -48,6 +48,7 @@ class PlayerVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         playOneAyah(linkURL: radio_Play)
+//        soraName.text = radios[Radio].name
 //        let soraName.text = Radio.name.self
         //SoundPlayer.play(number: theNumber + 1)
         //soraName.text =  soraAraay[theNumber]

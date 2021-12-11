@@ -18,6 +18,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         Cell.textLabel?.textAlignment = .left
         Cell.textLabel?.text = radios[indexPath.row].name
         Cell.detailTextLabel?.text = radios[indexPath.row].radio_url
+//        Cell.backgroundColor = UIColor(red: 0.42, green: 0.35, blue: 0.80, alpha: 1.00)
         
         return Cell
     }
